@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "dalle3-image-generator",
+    "image": "https://imgur.com/rVx1HMr.png",
+    "description": "Flask application that uses OpenAI's DALL-E model to generate images based on a user's input.",
+    "tags": ["flask", "python", "openai", "dalle-3"],
+    "source_code":"https://github.com/horizonbymuneeb/dalle3-image-generator",
+    "demo": "https://github.com/horizonbymuneeb/dalle3-image-generator/"
+  },
+  {
+    "id": 2,
+    "name": "aiDataAssistant",
+    "image": "https://imgur.com/Gxgji8q.png",
+    "description": "AI-powered assistant for data science tasks, built with Python, Streamlit, and OpenAI's GPT-3. The assistant can help with exploratory data analysis (EDA), feature engineering, and machine learning model selection.",
+    "tags": ["python", "streamlit", "javascript", "openai", "pandas", "langchain"],
+    "source_code": "https://github.com/horizonbymuneeb/aiDataAssistant",
+    "demo": "https://github.com/horizonbymuneeb/aiDataAssistant"
+  },
+  {
+    "id": 3,
+    "name": "Naive Bayes Spam Email Classifier",
+    "image": "https://imgur.com/9fM0O2p.png",
+    "description": "This project is a Naive Bayes Spam Email Classifier. It uses the Naive Bayes algorithm to classify emails as either spam or not spam.",
+    "tags": ["pandas", "numpy", "seaborn", "matplotlib", "scikit-learn", "python"],
+    "source_code": "https://github.com/horizonbymuneeb/spam-Detector-NaiveBayes",
+    "demo": "https://github.com/horizonbymuneeb/spam-Detector-NaiveBayes"
+  },
+  {
+    "id": 4,
+    "name": "Chatbot using Ollama LLM",
+    "image": "https://imgur.com/zRMXEDX.png",
+    "description": "Local Chatbot using OLLAMA Model LLM",
+    "tags": ["python", "gradio", "openai", "ollama"],
+    "source_code": "https://github.com/horizonbymuneeb/ollamachatbot",
+    "demo": "https://github.com/horizonbymuneeb/ollamachatbot"
+  }
+]

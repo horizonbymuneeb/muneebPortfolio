@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap');
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tags */
+/* React */
+.react {
+  border: 0.1rem solid rgb(97, 218, 251);
+}
+.react:hover {
+  background: rgba(97, 218, 251, 0.25);
+}
+
+/* Node.js */
+.node {
+  border: 0.1rem solid rgb(131, 205, 41);
+}
+.node:hover {
+  background: rgba(131, 205, 41, 0.25);
+}
+
+/* MongoDB */
+.mongodb {
+  border: 0.1rem solid rgb(67, 153, 52);
+}
+.mongodb:hover {
+  background: rgba(67, 153, 52, 0.25);
+}
+
+/* Redux */
+.redux {
+  border: 0.1rem solid rgb(118, 74, 188);
+}
+.redux:hover {
+  background: rgba(118, 74, 188, 0.25);
+}
+
+/* Razorpay */
+.razorpay {
+  border: 0.1rem solid rgb(82, 143, 240);
+}
+.razorpay:hover {
+  background: rgba(82, 143, 240, 0.25);
+}
+
+/* Material-UI */
+.material-ui {
+  border: 0.1rem solid rgb(25, 118, 210);
+}
+.material-ui:hover {
+  background: rgba(25, 118, 210, 0.25);
+}
+
+/* Bulma */
+.bulma {
+  border: 0.1rem solid rgb(0, 209, 178);
+}
+.bulma:hover {
+  background: rgba(0, 209, 178, 0.25);
+}
+
+/* Next.js */
+.next {
+  border: 2px solid rgb(0, 112, 243);
+}
+.next:hover {
+  background: rgba(0, 112, 243, 0.25);
+}
+
+/* Tailwind CSS */
+.tailwind {
+  border: 2px solid rgb(6, 182, 212);
+}
+.tailwind:hover {
+  background: rgba(6, 182, 212, 0.25);
+}
+
+/* React Query */
+.react-query {
+  border: 2px solid rgb(255, 65, 84);
+}
+.react-query:hover {
+  background: rgba(255, 65, 84, 0.25);
+}
+
+/* CSS Modules */
+.css-modules {
+  border: 2px solid rgb(21, 114, 182);
+}
+.css-modules:hover {
+  background: rgba(21, 114, 182, 0.25);
+}
+
+/* Flask */
+.flask {
+  border: 2px solid rgb(238, 238, 238);
+}
+.flask:hover {
+  background: rgba(238, 238, 238, 0.25);
+}
+
+/* Python */
+.python {
+  border: 2px solid rgb(0, 114, 206);
+}
+.python:hover {
+  background: rgba(0, 114, 206, 0.25);
+}
+
+/* OpenAI */
+.openai {
+  border: 2px solid rgb(51, 51, 51);
+}
+.openai:hover {
+  background: rgba(51, 51, 51, 0.25);
+}
+
+/* DALL-E 3 */
+.dalle-3 {
+  border: 2px solid rgb(150, 150, 150);
+}
+.dalle-3:hover {
+  background: rgba(150, 150, 150, 0.25);
+}
+
+/* Streamlit */
+.streamlit {
+  border: 2px solid rgb(255, 115, 115);
+}
+.streamlit:hover {
+  background: rgba(255, 115, 115, 0.25);
+}
+
+/* JavaScript */
+.javascript {
+  border: 2px solid rgb(255, 191, 0);
+}
+.javascript:hover {
+  background: rgba(255, 191, 0, 0.25);
+}
+
+/* pandas */
+.pandas {
+  border: 2px solid rgb(0, 146, 255);
+}
+.pandas:hover {
+  background: rgba(0, 146, 255, 0.25);
+}
+
+/* Langchain */
+.langchain {
+  border: 2px solid rgb(102, 102, 102);
+}
+.langchain:hover {
+  background: rgba(102, 102, 102, 0.25);
+}
+
+/* NumPy */
+.numpy {
+  border: 2px solid rgb(153, 153, 153);
+}
+.numpy:hover {
+  background: rgba(153, 153, 153, 0.25);
+}
+
+/* Seaborn */
+.seaborn {
+  border: 2px solid rgb(76, 76, 76);
+}
+.seaborn:hover {
+  background: rgba(76, 76, 76, 0.25);
+}
+
+/* Matplotlib */
+.matplotlib {
+  border: 2px solid rgb(128, 128, 128);
+}
+.matplotlib:hover {
+  background: rgba(128, 128, 128, 0.25);
+}
+
+/* Scikit-learn */
+.scikit-learn {
+  border: 2px solid rgb(204, 204, 204);
+}
+.scikit-learn:hover {
+  background: rgba(204, 204, 204, 0.25);
+}
+
+/* Gradio */
+.gradio {
+  border: 2px solid rgb(255, 255, 255);
+}
+.gradio:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+/* Ollama */
+.ollama {
+  border: 2px solid rgb(204, 204, 204);
+}
+.ollama:hover {
+  background: rgba(204, 204, 204, 0.25);
+}
+
+.css-modules {
+  border: 2px solid rgb(21, 114, 182);
+}
+.css-modules:hover {
+  background: rgba(21, 114, 182, 0.25);
+}
