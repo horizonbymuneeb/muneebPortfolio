@@ -47,6 +47,14 @@ const GithubPage = ({ repos, user }) => {
           hideMonthLabels
         />
       </div>
+
+      <style jsx global>{
+        `
+        .react-github-calendar {
+          margin: 0 auto;
+        }
+        `
+      } </style>
     </>
   );
 };
